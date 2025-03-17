@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BlazorWasm\\BlazorWasm.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ReportingRestService\\ReportingRestService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
